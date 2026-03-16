@@ -1,0 +1,4 @@
+
+jdk 17,21,25 download.
+
+jenkins download- official site
